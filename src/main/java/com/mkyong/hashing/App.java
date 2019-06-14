@@ -1,8 +1,9 @@
 package com.mkyong.hashing;
 
 /**
- * Hello word!
+ * Hellojsjs
 */
+
 public class App
 {
     public static void main( String[] args )
